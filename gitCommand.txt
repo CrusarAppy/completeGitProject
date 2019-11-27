@@ -1,0 +1,8 @@
+git init for git initialization
+git add --all or git add . to add all untracked files 
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CrusarAppy/completeGitProject.git
+git push -u origin master
